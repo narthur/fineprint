@@ -1,0 +1,2 @@
+# fineprint
+Beeminder universal fineprint
