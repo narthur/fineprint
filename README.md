@@ -1,5 +1,5 @@
 # fineprint
-Beeminder universal fineprint for [Narthur](https://www.beeminder.com/narthur). [Revision history](https://github.com/narthur/fineprint/commits/master)
+Beeminder universal fineprint for [Narthur](https://www.beeminder.com/narthur)
 
 ## A derail is not legit if...
 
@@ -12,3 +12,5 @@ Beeminder universal fineprint for [Narthur](https://www.beeminder.com/narthur). 
 ## A derail is still legit if...
 
 1. A goal's fineprint specifies that one of the preceeding conditions should not apply to itself.
+
+[Revision history](https://github.com/narthur/fineprint/commits/master)
