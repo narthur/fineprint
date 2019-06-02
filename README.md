@@ -1,5 +1,5 @@
 # fineprint
-Beeminder universal fineprint for [Narthur](https://www.beeminder.com/narthur)
+Beeminder universal fineprint for [Narthur](https://www.beeminder.com/narthur). [Revision history](https://github.com/narthur/fineprint/commits/master)
 
 ## A derail is not legit if...
 
