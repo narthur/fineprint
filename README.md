@@ -9,7 +9,7 @@ A derail is not legit if any of the following conditions are true, unless the go
 2. It happened because of automation gone awry.
 3. I met goal requirements but botched data entry.
 4. I met goal requirements but couldn't enter data because of lack of Internet access.
-5. My wife vetos the derail (due to sickness or another reason).
+5. My wife vetos the derail (due to sickness or any other reason).
 
 ## 2. Contracting Goals
 
