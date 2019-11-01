@@ -5,7 +5,7 @@ A derail is not legit if any of the following conditions are true, unless the go
 
 ## 1. General
 
-1. It happened on Saturday.
+1. It happened between sundown Friday night and midnight Saturday night.
 2. It happened because of automation gone awry.
 3. I met goal requirements but botched data entry.
 4. I met goal requirements but couldn't enter data because of lack of Internet access.
