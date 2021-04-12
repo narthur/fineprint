@@ -12,7 +12,7 @@ A derail is not legit if any of the following conditions are true, unless the go
 5. My wife vetos the derail (due to sickness or any other reason).
 6. The goal is related to my wife and she decides she'd rather I do something else instead or nothing at all.
 7. I derailed because we needed to do something related to our home purchase.
-8. The goal is a part of an evening or morning routine waterfall and we're traveling.
+8. The goal is a part of an evening or morning routine waterfall and we're not at home.
 
 ## 2. Contracting Goals
 
